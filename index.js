@@ -20,6 +20,9 @@ function johnLennonFacts(array) {
     result.push(array[i] + "!!!");
     i++;
     }
+    return result;
+}
+
     
 
 
